@@ -1,0 +1,23 @@
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.header-container {
+  padding: 20px;
+}
+.logo {
+  width: 150px;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+}
